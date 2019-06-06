@@ -24,7 +24,7 @@ DKImagePickerController
 ## Requirements
 * iOS 8.0+
 * ARC
-* Swift 3.2 & 4.2
+* Swift 3.2 & 4.2 & 5.0
 
 ## Installation
 ### CocoaPods
